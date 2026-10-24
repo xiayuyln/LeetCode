@@ -13,6 +13,7 @@
 | 题号 | 题目 | 难度 | 专题 | 思路关键词 | 日期 |
 | --- | --- | --- | --- | --- | --- |
 | 1768 | [交替合并字符串](https://leetcode.cn/problems/merge-strings-alternately/) | 简单 | 双指针 | 两指针交替取字符，越界则跳过另一方 | 2026-10-22 |
+| 389 | [找不同](https://leetcode.cn/problems/find-the-difference/) | 简单 | 哈希表 | 26 位计数数组，t 中减到负数即答案 | 2026-10-24 |
 
 ## 目录
 
@@ -39,3 +40,4 @@ git add .
 git commit -m "feat: 1768 交替合并字符串"
 git push
 ```
+
